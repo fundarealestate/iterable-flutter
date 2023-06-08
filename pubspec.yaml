@@ -1,14 +1,15 @@
 name: iterable_flutter
 description: Flutter implementation for iterable.com Cross Channel Marketing Platform
-version: 0.5.8
+version: 0.5.9
 homepage: https://lahaus.com
 repository: https://github.com/la-haus/iterable-flutter
 issue_tracker: https://github.com/la-haus/iterable-flutter/issues
 documentation: https://github.com/la-haus/iterable-flutter#readme
+publish_to: https://unpub.internal.funda.io
 
 environment:
-  sdk: '>=2.13.3 <3.0.0'
-  flutter: '>= 2.2.2'
+  sdk: ">=2.13.3 <3.0.0"
+  flutter: ">= 2.2.2"
 
 dependencies:
   flutter:
