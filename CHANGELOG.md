@@ -1,3 +1,6 @@
+## 0.5.9
+- fix(Dependencies): update iterable android sdk to funda git dependency
+
 ## 0.5.8
 - feat(Track): allow data fields params for track #61
 
